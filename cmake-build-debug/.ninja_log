@@ -1,0 +1,10 @@
+# ninja log v5
+12	585	7004909933633660	CMakeFiles/Linear_congruential_generator.dir/main.cpp.obj	57d4bdbc74c1e2c2
+18	620	7004909933950229	CMakeFiles/Linear_congruential_generator.dir/Util.cpp.obj	48d93597137c6b04
+1	721	7004909934982764	CMakeFiles/Linear_congruential_generator.dir/Tree.cpp.obj	3625b95bbe526154
+6	841	7004909936174609	CMakeFiles/Linear_congruential_generator.dir/Generator.cpp.obj	e2897b7208a9c966
+841	998	7004909937680188	Linear_congruential_generator.exe	ff1851523951beca
+13	620	7004925363257537	CMakeFiles/Linear_congruential_generator.dir/Util.cpp.obj	48d93597137c6b04
+2	621	7004925363257537	CMakeFiles/Linear_congruential_generator.dir/main.cpp.obj	57d4bdbc74c1e2c2
+7	674	7004925363809329	CMakeFiles/Linear_congruential_generator.dir/Heap.cpp.obj	d8c8a0bbc14ca2f6
+674	794	7004925364963266	Linear_congruential_generator.exe	31dc40ef9fa3c6df
